@@ -1,6 +1,6 @@
 # tailwindcss website demo
 
-![clipboard](/images/clip1.png)
+![clipboard](images/clip1.PNG)
 
 ## Demo Website
 

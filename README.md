@@ -1,6 +1,6 @@
-# MERN Furnio
+# tailwindcss website demo
 
-![furnio](/frontend/public/images/furnio.jpg)
+![clipboard](/images/clip1.png)
 
 ## Demo Website
 

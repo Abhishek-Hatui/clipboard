@@ -1,4 +1,4 @@
-# tailwindcss website demo
+# tailwindcss responsive website demo
 
 ![clipboard](images/clip1.PNG)
 ![clipboard](images/clip2.PNG)
